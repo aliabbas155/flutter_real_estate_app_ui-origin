@@ -1,0 +1,26 @@
+name: flutter_real_estate_app_ui
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=2.12.0 <4.0.0"
+
+dependencies:
+  another_carousel_pro: ^1.0.0
+  carousel_pro_nullsafety: ^2.0.0
+  flutter:
+    sdk: flutter
+  google_fonts: ^5.1.0
+  intl: ^0.18.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
